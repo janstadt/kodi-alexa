@@ -4,4 +4,4 @@ yaep
 pytz
 roman
 fuzzywuzzy
-flask-ask>=0.8.9
+flask-ask=0.9.1
